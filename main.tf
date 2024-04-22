@@ -3,7 +3,7 @@ terraform {
     organization = "flink_cnewcloud"
 
     workspaces {
-      name = "cicd_flink_cnewcloud"
+      name = "flinkcicdworkspace"
     }
   }
 
